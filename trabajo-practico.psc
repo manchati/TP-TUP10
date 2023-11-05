@@ -1,3 +1,3 @@
 Algoritmo hola
-	escribir "hola"
-FinAlgoritmo
+	escribir "holasss"
+FinAlgoritmo        
